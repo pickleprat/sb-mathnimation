@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MathAppApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Starting springboot application....");
 		SpringApplication.run(MathAppApplication.class, args);
 	}
 
